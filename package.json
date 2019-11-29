@@ -1,0 +1,25 @@
+{
+  "name": "wassail",
+  "version": "0.0.1",
+  "description": "Minimal Recipe Organization Website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omalleyian/wassail.git"
+  },
+  "author": "Ian O'Malley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omalleyian/wassail/issues"
+  },
+  "homepage": "https://github.com/omalleyian/wassail#readme"
+}
